@@ -1,0 +1,53 @@
+* {
+    font-family: sans-serif;
+}
+
+.images {
+    padding-top: 9em;
+}
+
+.images h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 100;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    color: rgb(150, 146, 146);
+    font-weight: 100;
+}
+
+.titleField p {
+    display: inline;
+    font-size: 4em;
+    position: relative;
+    font-weight: 600;
+}
+
+.titleField {
+    text-align: center;
+}
+
+.searchBar {
+    position: absolute;
+    top: 16%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.searchBar input {
+    padding: 7px 19px;
+    width: 42%;
+}
+
+.searchBar button {
+    padding: 6px 0px;
+    width: 13%;
+}
+
+.imagesWhole img {
+    border-radius: 3px;
+}
+
+footer p {
+    text-align: center;
+}
