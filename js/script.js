@@ -1,6 +1,6 @@
 let searchBar = document.querySelector(".searchBar")
 let title = document.querySelector(".titleField")
-let string = "IMAGNY";
+let string = "FIND OUT";
 let titleChars = string;
 // console.log(titleChars);
 for (const key in titleChars) {
